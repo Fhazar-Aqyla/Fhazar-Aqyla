@@ -1,11 +1,5 @@
 # Hi, I'm Fhazar 👋
 
-### 🎓 Information Systems Student at Horizon University Indonesia  
-### 🎨 Interested in UI, frontend development, and digital product design  
-### 🚀 Exploring web apps, mobile apps, data, cloud, and product-based problem solving  
-
----
-
 ## 🧑‍💻 About Me
 
 - 🎓 I'm currently studying **Information Systems** at **Horizon University Indonesia**
