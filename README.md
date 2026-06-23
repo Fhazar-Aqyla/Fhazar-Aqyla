@@ -1,4 +1,4 @@
-# Hi, I'm Fhazar 👋
+# Hi, I'm Fhazar Aqyla 👋
 
 ## 🧑‍💻 About Me
 
